@@ -2,7 +2,6 @@
    T Street Boys custom styles
    ========================================================================== */
 
-@import url(http://fonts.googleapis.com/css?family=Squada+One);
 
 html { 
   background: url(../img/bg.jpg) no-repeat center center fixed; 
@@ -17,7 +16,7 @@ body {
 
 p {
 	font-family: Langdon;
-	src: url("fonts/Langdon.otf") format("opentype");
+	src: url("fonts/Langdon.ttf") format("truetype");
 	font-size: 55px;
 	color: #000;
 	text-transform: uppercase;
