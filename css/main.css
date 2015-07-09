@@ -3,7 +3,7 @@
    ========================================================================== */
 @font-face{
 	font-family: "Langdon";
-	src: url("fonts/Langdon.ttf") format("truetype");
+	src: url('fonts/Langdon.ttf') format("truetype");
 }
 
 html { 
@@ -19,7 +19,7 @@ body {
 
 p {
 	font-family: "Langdon";
-	src: url("fonts/Langdon.ttf") format("truetype");
+	src: url('fonts/Langdon.ttf') format("truetype");
 	font-size: 55px;
 	color: #000;
 	text-transform: uppercase;
