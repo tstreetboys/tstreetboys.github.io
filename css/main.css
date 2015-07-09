@@ -1,7 +1,10 @@
 /* ==========================================================================
    T Street Boys custom styles
    ========================================================================== */
-
+@font-face{
+	font-family: Langdon;
+	src: url("fonts/Langdon.ttf") format("truetype");
+}
 
 html { 
   background: url(../img/bg.jpg) no-repeat center center fixed; 
@@ -15,13 +18,9 @@ body {
 }
 
 p {
-	@font-face{
-	font-family: Langdon;
-	src: url("fonts/Langdon.ttf") format("truetype");
 	font-size: 55px;
 	color: #000;
 	text-transform: uppercase;
-	}
 }
 
 a,
