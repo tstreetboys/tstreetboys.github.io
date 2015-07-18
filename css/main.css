@@ -33,7 +33,7 @@ a:visited {
 }
 
 .header {
-	padding-bottom: 50px;
+	padding-bottom: 25px;
 }
 
 .nav {
@@ -46,7 +46,7 @@ a:visited {
 }
 
 .footer {
-	padding-top: 50px;
+	padding-top: 25px;
 }
 
 /* Custom, iPhone Retina */ 
