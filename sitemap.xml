@@ -4,17 +4,22 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
 <url>
   <loc>http://www.tstreetboys.com/</loc>
+  <lastmod>2015-09-15T02:21:54+00:00</lastmod>
 </url>
 <url>
-  <loc>http://www.tstreetboys.com/about/</loc>
+  <loc>http://www.tstreetboys.com/roster/</loc>
+  <lastmod>2015-09-15T02:21:54+00:00</lastmod>
 </url>
 <url>
-  <loc>http://www.tstreetboys.com/pictures/</loc>
+  <loc>http://www.tstreetboys.com/schedule/</loc>
+  <lastmod>2015-09-15T02:21:54+00:00</lastmod>
 </url>
 <url>
-  <loc>http://www.tstreetboys.com/art/</loc>
+  <loc>http://www.tstreetboys.com/standings/</loc>
+  <lastmod>2015-09-15T02:21:54+00:00</lastmod>
 </url>
 </urlset>
